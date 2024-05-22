@@ -11,16 +11,12 @@ First, you need to download the game files. You can clone the repository using G
 Open your terminal or command prompt and run the following command:
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/YevaTirabyan/bouncing_ballz.git
 ```
 
 **2. Navigate to the Project Directory**
 
 Open the extracted folder or the cloned repository in your file explorer or use the terminal to navigate to the project directory.
-
-```
-cd path/to/your-repo-name
-```
 
 ## Execution Instructions
 
